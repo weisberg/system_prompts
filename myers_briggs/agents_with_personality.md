@@ -1,5 +1,67 @@
 # Myers-Briggs Agent Personalities: Enhancing AI Problem Solving and User Experience
 
+## **Table of Contents**
+
+1. **Myers-Briggs Agent Personalities: Enhancing AI Problem Solving and User Experience**
+
+2. **Diverse Agent Personalities: State-of-the-Art Insights**
+
+   * The value of cognitive diversity in AI agent teams
+   * Recent research findings (Ghosh & Rintel, Lu et al., Duan et al.)
+   * Big Five personality traits in AI
+   * Key takeaways on heterogenous AI teams
+
+3. **MBTI Types Best Suited for Agentic AI Work**
+
+   * Overview: Agentic work and personality alignment
+   * Detailed Profiles of Favorable Types:
+
+     * INTJ (“The Architect/Strategist”)
+     * INTP (“The Logician”)
+     * ENTJ (“The Commander”)
+     * ENTP (“The Debater/Innovator”)
+     * ISTJ (“The Logistician/Inspector”)
+     * ISTP (“The Virtuoso”)
+     * INFJ (“The Counselor”)
+     * ENFJ (“The Protagonist”)
+   * Harnessing complementary strengths in agent teams
+
+4. **Personality Types Less Favorable for Agentic Work**
+
+   * Limitations of certain MBTI profiles in autonomous agents
+   * Profiles of Less-Favorable Types:
+
+     * ESFP (“The Performer/Entertainer”)
+     * ISFP (“The Adventurer/Artist”)
+     * ENFP (“The Campaigner”)
+     * INFP (“The Mediator/Dreamer”)
+     * ESFJ (“The Consul/Caregiver”)
+     * ISFJ (“The Defender/Nurturer”)
+   * Summary of challenges for people-pleasing and unstructured types
+   * Supportive but non-lead roles for these types
+
+5. **Matching Agent Personality to Users: A Framework for Personalization**
+
+   * The concept of personality matching
+   * Evidence for improved user engagement
+   * Proposed Matching Framework:
+
+     1. Initial trait inference
+     2. Agent persona selection
+     3. Adaptive interaction (state transitions)
+     4. Feedback loop and learning
+   * Benefits of human-agent pairing
+   * Multi-agent system dynamics for user-facing AI
+
+6. **Conclusion**
+
+   * Dual benefits: problem-solving and user experience
+   * The role of adaptive, personalized AI agents
+
+7. **Sources**
+
+
+
 # **1. Diverse Agent Personalities: State-of-the-Art Insights**
 
 **Researchers increasingly recognize that equipping AI agents with distinct personalities can improve problem-solving by introducing cognitive diversity.**
